@@ -1,0 +1,35 @@
+{
+    "name": "@types/facebook-instant-games",
+    "version": "7.1.0",
+    "description": "TypeScript definitions for facebook-instant-games",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/facebook-instant-games",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Menushka Weeratunga",
+            "url": "https://github.com/menushka",
+            "githubUsername": "menushka"
+        },
+        {
+            "name": "Øyvind Johansen Amundrud",
+            "url": "https://github.com/oyvindjam",
+            "githubUsername": "oyvindjam"
+        },
+        {
+            "name": "Alex A. Yermoshenko",
+            "url": "https://github.com/doterax",
+            "githubUsername": "doterax"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/facebook-instant-games"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "typesPublisherContentHash": "c8798f563689835ebe8074329c3c8a2510f7b7df205561603c592c32f8751266",
+    "typeScriptVersion": "4.3"
+}
